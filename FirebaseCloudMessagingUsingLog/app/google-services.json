@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "276597450055",
+    "firebase_url": "https://fbasefirsttest.firebaseio.com",
+    "project_id": "fbasefirsttest",
+    "storage_bucket": "fbasefirsttest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276597450055:android:d93ac61e55b6ce45",
+        "android_client_info": {
+          "package_name": "bd.com.techjobs.androiddevelopment.firebasecloudmessagingusinglog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276597450055-g1au6pa9kva2gdumd8n691uguo1tk4p3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bd.com.techjobs.androiddevelopment.firebasecloudmessagingusinglog",
+            "certificate_hash": "E560A345C5EE83BD47D7E0FE93AD7D5E5C066833"
+          }
+        },
+        {
+          "client_id": "276597450055-a22ua9f0p0ilabjdf76g1njgshqkqom7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_4ASdW_jsMObOtEpRIoWejdBW_IoOkSg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276597450055-a22ua9f0p0ilabjdf76g1njgshqkqom7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
